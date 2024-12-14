@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phaser-react_gamesample/static/css/main.bb21501b.css",
+    "main.js": "/phaser-react_gamesample/static/js/main.f209ef7f.js",
+    "static/js/488.dd407ef5.chunk.js": "/phaser-react_gamesample/static/js/488.dd407ef5.chunk.js",
+    "index.html": "/phaser-react_gamesample/index.html",
+    "main.bb21501b.css.map": "/phaser-react_gamesample/static/css/main.bb21501b.css.map",
+    "main.f209ef7f.js.map": "/phaser-react_gamesample/static/js/main.f209ef7f.js.map",
+    "488.dd407ef5.chunk.js.map": "/phaser-react_gamesample/static/js/488.dd407ef5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb21501b.css",
+    "static/js/main.f209ef7f.js"
+  ]
+}
